@@ -1,4 +1,4 @@
-Case Study: Adventure Works Sales Analysis (Power Query)
+Case Study: Adventure Works Sales Analysis 
 📌 Project Overview
 
 This project focuses on analyzing sales data from the Adventure Works dataset using Power Query in Power BI. The goal of the analysis is to clean, transform, and analyze sales data to identify key business insights related to revenue performance, product demand, and regional sales trends.
